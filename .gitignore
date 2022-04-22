@@ -1,4 +1,4 @@
 .git/
 __pycache__/
 
-code.py
+db.sqlite3
